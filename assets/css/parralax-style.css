@@ -1,0 +1,56 @@
+.parralax-frame {
+  position: relative;
+  overflow: hidden;
+  /*min-height: 100vh;*/
+  border-bottom-left-radius: 0% 0%;
+  border-bottom-right-radius: 0% 0%;
+}
+
+.background-parralax {
+  height: 100vh;
+  z-index: 1;
+  width: 100vw;
+  overflow: hidden;
+  position: absolute;
+}
+
+.rawfood {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: auto;
+  height: 63%;
+  /*opacity: 0.8;*/
+  z-index: 100;
+}
+
+.raw1 {
+  top: auto;
+  left: auto;
+  right: 11%;
+  bottom: 5%;
+  height: 31%;
+}
+
+.raw2 {
+  top: auto;
+  bottom: 0;
+  left: -5%;
+  height: 38%;
+}
+
+.raw3 {
+  left: auto;
+  right: 36px;
+  bottom: 35%;
+  top: auto;
+  height: 20%;
+}
+
+.raw4 {
+  right: -7%;
+  left: auto;
+  top: -8%;
+  height: 40%;
+}
+
